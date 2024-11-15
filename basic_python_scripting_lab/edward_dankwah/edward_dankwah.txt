@@ -1,0 +1,2 @@
+I’ve learned Python basics like using modules, handling files, working with strings, and using virtual environments.
+Last modified on : 2024-11-01 11:55:45
